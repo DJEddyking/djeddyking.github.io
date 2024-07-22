@@ -7,24 +7,24 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Dongguan, CHN"
+locale                   : "en-US"
 title                    : "Jin Ding (丁金)"
 title_separator          : "-"
 name                     : &name "Jin Ding"
 description              : &description "personal description"
 url                      : https://djeddyking.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "djeddyking.github.io"
+repository               : "DJEddyking/djeddyking.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dingjin.png"
+  avatar           : "dingjin.jpg"
   name             : "Jin Ding"
-  pronouns         : # example: "she/her"  
-  bio              : "stay hungry stay foolish"
+  # pronouns         : # example: "she/her"  
+  bio              : "Seeing with AI, loving with heart."
   location         : "Dongguan, CHN"
   employer         : "Huawei Technologies Co., Ltd."
   # uri              : # URL
@@ -75,10 +75,10 @@ author:
 
 
 # Site Settings
-teaser                   : "dingjin.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -101,7 +101,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "dingjin1998@outlook.com"
   generatedFields:
     date:
       type               : "date"
@@ -137,7 +137,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
