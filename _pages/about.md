@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Home page of Jin Ding"
 author_profile: true
 redirect_from: 
   - /about/
