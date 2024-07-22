@@ -13,7 +13,7 @@ I am currently serving as an Algorithm Engineer at [Huawei Technologies Co., Ltd
 
 Research interests
 ======
-My research interests are centered in the field of computer vision, encompassing, but not limited to, person/vehicle re-identification(ReID), unsupervised domain adaptation(UDA), domain generalization(DG), semi-supervised learning(SSL), multi-modal learning and generative learning AI.
+My research interests are centered in the field of computer vision, encompassing, but not limited to, person/vehicle re-identification(ReID), unsupervised domain adaptation(UDA), domain generalization(DG), semi-supervised learning(SSL), multi-modal learning and generative learning.
 
 Recent news
 ------
