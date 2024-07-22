@@ -5,21 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-***
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=PtWSpXIAAAAJ&hl=zh-CN) or [ResearchGate](https://www.researchgate.net/profile/Hao-Liang-61).
-
-
-***
-
-## Journal Publications
-
-<ol>
+## Publications
 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/ECCV.png" alt="image description" style="width: 200px;">
   <p>This is some text that will appear next to the image.</p>
 </div>
+
+<ol>
+
 
 <li><p> <b>Learning an Interpretable End-to-End Network for Real-Time Acoustic Beamforming</b><br>
 <b>Liang, Hao</b> and Zhou, Guanxing, and Tu, Xiaotong*, and Jakobsson, Andreas and Ding, Xinghao and Huang, Yue<br>
