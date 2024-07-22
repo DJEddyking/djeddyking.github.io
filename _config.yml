@@ -219,14 +219,14 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: 
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
