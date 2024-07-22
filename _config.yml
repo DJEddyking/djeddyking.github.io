@@ -21,7 +21,7 @@ repository               : "djeddyking.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "dingjin.png"
   name             : "Jin Ding"
   pronouns         : # example: "she/her"  
   bio              : "stay hungry stay foolish"
@@ -75,7 +75,7 @@ author:
 
 
 # Site Settings
-teaser                   : "site-logo.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -200,9 +200,9 @@ kramdown:
 
 # Collections
 collections:
-  # teaching:
-  #   output: true
-  #   permalink: /:collection/:path/
+  teaching:
+    output: 
+    permalink: 
   publications:
     output: true
     permalink: /:collection/:path/
