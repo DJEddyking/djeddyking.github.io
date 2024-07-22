@@ -8,15 +8,15 @@ author_profile: true
 
 ## Publications
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="./ECCV.png" alt="image description" style="width: 200px;">
-  <p>This is some text that will appear next to the image.</p>
-</div>
-
 <ol>
 
 
-<li><p> <b>Learning an Interpretable End-to-End Network for Real-Time Acoustic Beamforming</b><br>
+<li>
+  <div style="display: flex; align-items: flex-start;">
+  <img src="./ECCV.png" alt="image description" style="width: 200px;">
+  <p>This is some text that will appear next to the image.</p>
+  </div>
+  <p> <b>Rethinking Normalization Layers for Domain Generalizable Person Re-identification.</b><br>
 <b>Liang, Hao</b> and Zhou, Guanxing, and Tu, Xiaotong*, and Jakobsson, Andreas and Ding, Xinghao and Huang, Yue<br>
 <i>Journal of Sound and Vibration (JSV)</i>, 2024 <br>
 <a href="https://doi.org/10.1016/j.jsv.2024.118620" class="textlink" target="_blank">[pdf]</a>
