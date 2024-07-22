@@ -1,13 +1,1 @@
----
-title: "Learning feature fusion for unsupervised domain adaptive person re-identification"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-08-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Ding, J., & Zhou, X. (2022, August). "Learning feature fusion for unsupervised domain adaptive person re-identification."(oral) In 2022 26th International Conference on Pattern Recognition (ICPR) (pp. 2613-2619). IEEE.'
----
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
