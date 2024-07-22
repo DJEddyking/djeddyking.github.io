@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# <i class="fa fa-fw fa-copy"></i> Publications #
+# Publications
 
 <p>
 <img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/ECCV.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
