@@ -9,6 +9,11 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+<div style="display: flex; align-items: flex-start;">
+  <img src="../images/profile.jpg" alt="image description" style="width: 200px;">
+  <p>This is some text that will appear next to the image.</p>
+</div>
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
