@@ -17,9 +17,9 @@ My research interests are centered in the field of computer vision, encompassing
 
 Recent news
 ------
-:tada:[July 2024]  One paper is accepted by the 18th European Conference on Computer Vision (<i>ECCV 2024</i>).
+:tada: [July 2024]  One paper is accepted by the 18th European Conference on Computer Vision (<i>ECCV 2024</i>).
 
-:tada:[March 2024] One paper is accepted by IEEE International Conference on Multimedia and Expo (<i>ICME 2024</i>).
+:tada: [March 2024] One paper is accepted by IEEE International Conference on Multimedia and Expo (<i>ICME 2024</i>).
 
 For more info
 ------
