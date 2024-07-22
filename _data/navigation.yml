@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Codes"
-    url: /codes/  
+  # - title: "Codes"
+  #   url: /codes/  
       
-  - title: "Reading List"
-    url: /read-list/
+  # - title: "Reading List"
+  #   url: /read-list/
 
   # - title: "Talks"
   #   url: /talks/    
