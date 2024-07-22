@@ -17,7 +17,8 @@ My research interests are centered in the field of computer vision, encompassing
 
 Recent news
 ------
-- [x] My paper "Rethinking Normalization Layers for Domain Generalizable Person Re-identification" is accepted by the 18th European Conference on Computer Vision (ECCV 2024).
+- [x] [July 2024]One paper is accepted by the 18th European Conference on Computer Vision (ECCV 2024).
+- [x] [March 2024]One paper is accepted by IEEE International Conference on Multimedia and Expo (ICME 2024).
 
 For more info
 ------
