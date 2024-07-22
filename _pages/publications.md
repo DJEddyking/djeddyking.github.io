@@ -9,7 +9,7 @@ author_profile: true
 
 <p>
 <img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/ECCV.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction</b><br>Yufei Shi, Beijia Lu, Jia-Wei Liu, <b>Ming Li</b> and Mike Zheng Shou. <i>arXiv</i>. 2023.<br>
-[<a href="http://arxiv.org/abs/2312.02015">Paper</a>][<a href="https://showlab.github.io/ColonNeRF/">Project</a>]
+<b>Rethinking Normalization Layers for Domain Generalizable Person Re-identification</b><br>Nie Ren, <b>Jin Ding</b>, Xue Zhou and Xi Li. <i>ECCV</i> 2024<br>
+[<a href="http://xxx">Paper</a>][<a href="https://github.com/3699nr/ReNorm.">Project</a>]
 <br clear="left">
 </p>
