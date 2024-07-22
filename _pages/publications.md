@@ -34,6 +34,6 @@ author_profile: true
 <p>
 <img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/PRCV.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>Disentangled Feature Learning for Semi-supervised Person Re-identification</b><br><b>Jin Ding</b>, Xue Zhou and Gehan Hao. <i>PRCV</i> 2022<br>
-[<a href="https://link.springer.com/chapter/10.1007/978-3-031-18916-6_37">Paper</a>][<a href="https://github.com/DJEddyking/djeddyking.github.io/blob/master/files/PRCV_poster.png">Poster</a>]
+[<a href="https://link.springer.com/chapter/10.1007/978-3-031-18916-6_37">Paper</a>][<a href="https://github.com/DJEddyking/djeddyking.github.io/blob/master/files/345.JPG">Poster</a>]
 <br clear="left">
 </p>
