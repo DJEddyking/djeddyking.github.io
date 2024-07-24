@@ -66,9 +66,12 @@ Publications
   
 - **Ding, J.**, Zhou, X., & Hao, G. (2022, October). <i>"[Disentangled Feature Learning for Semi-supervised Person Re-identification](https://link.springer.com/chapter/10.1007/978-3-031-18916-6_37)."</i> In Chinese Conference on Pattern Recognition and Computer Vision (PRCV) (pp. 449-463). Cham: Springer Nature Switzerland.
 
+
 Master's Thesis
 ======
 [Unsupervised Cross-domain Person Re-identification](https://github.com/DJEddyking/djeddyking.github.io/blob/master/files/thesis.pdf)
+
+<img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/huawei.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;"/>
 
 Competitions
 ======
@@ -81,7 +84,7 @@ The third data application innovation and entrepreneurship competition of Shando
 </p>
 
 <p>
-<img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/huawei.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/huawei.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 Huawei software elite challenge(华为软件精英挑战赛)
 <br><b>Track</b>: Design of traffic scheduling algorithm</br>
 <b>Rank</b>: 28/3291
