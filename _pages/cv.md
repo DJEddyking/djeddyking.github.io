@@ -80,16 +80,16 @@ Competitions
 <p>
 <img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/shandong.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 The third data application innovation and entrepreneurship competition of Shandong Province(山东省第三届数据应用创新创业大赛)
-<b>Track</b>: Person re-identification and tracking
-<b>Rank</b>: 3/184
+<br><b>Track</b>: Person re-identification and tracking
+<br><b>Rank</b>: 3/184
 <br clear="left">
 </p>
 
 <p>
 <img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/huawei.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 Huawei software elite challenge(华为软件精英挑战赛)
-<br><b>Track</b>: Design of traffic scheduling algorithm</br>
-<b>Rank</b>: 28/3291
+<br><b>Track</b>: Design of traffic scheduling algorithm
+<br><b>Rank</b>: 28/3291
 <br clear="left">
 </p>
 
@@ -97,7 +97,7 @@ Huawei software elite challenge(华为软件精英挑战赛)
 <img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/kuangshi.gif?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 China Agricultural AI Innovation and Entrepreneurship Competition(中国农业人工智能创新创业大赛)
 <br><b>Track</b>: Multi-target tracking for fish
-<b>Rank</b>: 3/214</br>
+<br><b>Rank</b>: 3/214</br>
 <br clear="left">
 </p>
 
