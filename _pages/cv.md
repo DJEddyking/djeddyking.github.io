@@ -68,7 +68,7 @@ Publications
   
 - **Ding, J.**, & Zhou, X. (2022, August). <i>"Learning feature fusion for unsupervised domain adaptive person re-identification."</i> (**oral**) In 2022 26th International Conference on Pattern Recognition (ICPR) (pp. 2613-2619). IEEE.
   
-- **Ding, J.**, Zhou, X., & Hao, G. (2022, October). <i>"Disentangled Feature Learning for Semi-supervised Person Re-identification."</i> In Chinese Conference on Pattern Recognition and Computer Vision (PRCV) (pp. 449-463). Cham: Springer Nature Switzerland.
+- **Ding, J.**, Zhou, X., & Hao, G. (2022, October). <i>"[Disentangled Feature Learning for Semi-supervised Person Re-identification](https://link.springer.com/chapter/10.1007/978-3-031-18916-6_37)."</i> In Chinese Conference on Pattern Recognition and Computer Vision (PRCV) (pp. 449-463). Cham: Springer Nature Switzerland.
 
 Master's Thesis
 ======
