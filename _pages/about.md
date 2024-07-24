@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
+About me :hugs:
 ======
-I am currently serving as an Algorithm Engineer at [Huawei Technologies Co., Ltd](https://www.huawei.com/). In June of 2023, I completed my postgraduate studies, receiving a Master of Engineering degree in Control Science and Engineering from the School of Automation Engineering at the [University of Electronic Science and Technology of China(UESTC)](https://www.uestc.edu.cn/), CHN, under the mentorship of Professor [Zhou Xue](https://www.auto.uestc.edu.cn/info/1091/4195.htm). Prior to that, in June of 2020, I was awarded a Bachelor of Engineering degree in Automation from the [Northeastern University at Qinhuangdao(NEUQ)](https://www.neuq.edu.cn/), CHN.
+I am currently serving as an Algorithm Engineer at [Huawei Technologies Co., Ltd](https://www.huawei.com/). In June of 2023, I completed my postgraduate studies, receiving a Master of Engineering degree in Control Science and Engineering from the School of Automation Engineering at the [University of Electronic Science and Technology of China(UESTC)](https://www.uestc.edu.cn/), CHN, under the mentorship of Professor [Xue Zhou](https://www.auto.uestc.edu.cn/info/1091/4195.htm). Prior to that, in June of 2020, I was awarded a Bachelor of Engineering degree in Automation from the [Northeastern University at Qinhuangdao(NEUQ)](https://www.neuq.edu.cn/), CHN.
 
 
 Research interests
@@ -17,9 +17,9 @@ My research interests are centered in the field of computer vision, encompassing
 
 Recent news
 ------
-:tada: [July 2024]  One paper is accepted by the 18th European Conference on Computer Vision (<i>ECCV 2024</i>).
+:hugs: [July 2024]  One paper is accepted by the 18th European Conference on Computer Vision (<i>ECCV 2024</i>).
 
-:tada: [March 2024] One paper is accepted by IEEE International Conference on Multimedia and Expo (<i>ICME 2024</i>).
+- [March 2024] One paper is accepted by IEEE International Conference on Multimedia and Expo (<i>ICME 2024</i>).
 
 For more info
 ------
