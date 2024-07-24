@@ -62,9 +62,9 @@ Skills
 
 Publications
 ======
-- Nie, R., **Ding, J.**, Zhou, X. & Li, X. (Accepted). <i>"Rethinking Normalization Layers for Domain Generalizable Person Re-identification."</i> In the 18th European Conference on Computer Vision (ECCV) 2024
+- Nie, R., **Ding, J.**, Zhou, X. & Li, X. (Accepted). <i>"[Rethinking Normalization Layers for Domain Generalizable Person Re-identification](https://github.com/DJEddyking/djeddyking.github.io/blob/master/files/ECCV.pdf)."</i> In the 18th European Conference on Computer Vision (ECCV) 2024
 
-- Nie, R., **Ding, J.**, He, L. & Zhou, X. (Accepted). <i>"[Latent Distribution Alignment for Domain Generalizable Person Re-identification]()."</i> In IEEE International Conference on Multimedia and Expo (ICME) 2024
+- Nie, R., **Ding, J.**, He, L. & Zhou, X. (Accepted). <i>"[Latent Distribution Alignment for Domain Generalizable Person Re-identification](https://github.com/DJEddyking/djeddyking.github.io/blob/master/files/ICME.pdf)."</i> In IEEE International Conference on Multimedia and Expo (ICME) 2024
   
 - **Ding, J.**, & Zhou, X. (2022, August). <i>"[Learning feature fusion for unsupervised domain adaptive person re-identification](https://ieeexplore.ieee.org/document/9956264)."</i> (**oral**) In 2022 26th International Conference on Pattern Recognition (ICPR) (pp. 2613-2619). IEEE.
   
@@ -72,6 +72,6 @@ Publications
 
 Master's Thesis
 ======
-[Unsupervised Cross-domain Person Re-identification]()
+[Unsupervised Cross-domain Person Re-identification](https://github.com/DJEddyking/djeddyking.github.io/blob/master/files/thesis.pdf)
 
 
