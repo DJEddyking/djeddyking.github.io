@@ -26,7 +26,7 @@ author_profile: true
 <p>
 <img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/ICPR.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>Learning Feature Fusion for Unsupervised Domain Adaptive Person Re-identification</b><br><b>Jin Ding</b> and Xue Zhou. <i>ICPR</i> 2022 (<b>Oral</b>)<br> 
-[<a href="https://ieeexplore.ieee.org/document/9956264">Paper</a>][<a href="https://github.com/DJEddyking/LF2">Code</a>][<a href="https://djeddyking.github.io/files/ICPR_oral.mp4">Presentation</a>]
+[<a href="https://ieeexplore.ieee.org/document/9956264">Paper</a>][<a href="https://github.com/DJEddyking/LF2">Code</a>][<a href="https://djeddyking.github.io/files/ICPR_oral.pdf">Presentation</a>]
 <br clear="left">
 </p>
 
