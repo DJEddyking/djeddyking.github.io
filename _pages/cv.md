@@ -40,6 +40,18 @@ Academic records
   - Rank: 20/177
   - Centesimal grade average: 88.0
 
+Awards & Honors
+======
+- **Outstanding Graduate Students**, Sichuan Province, 2023.
+- **Outstanding Graduate Students**, University of Electronic Science and Technology of China, 2023.
+- **The First Price Scholarship**, University of Electronic Science and Technology of China, 2022.
+- **National Scholarship**, University of Electronic Science and Technology of China, 2021.
+- **The First Price Scholarship**, University of Electronic Science and Technology of China, 2021.
+- **The Second Price Scholarship**, University of Electronic Science and Technology of China, 2020.
+- **The Third Price Academic Scholarship**, Northeastern University, 2019.
+- **The Third Price Academic Scholarship**, Northeastern University, 2018.
+- **The First Price Academic Scholarship**, Northeastern University, 2017.
+
 Skills
 ======
 * Python
@@ -50,6 +62,16 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- Nie, R., **Ding, J.**, Zhou, X. & Li, X. (Accepted). <i>"Rethinking Normalization Layers for Domain Generalizable Person Re-identification."</i> In the 18th European Conference on Computer Vision (ECCV) 2024
+
+- Nie, R., **Ding, J.**, He, L. & Zhou, X. (Accepted). <i>"Latent Distribution Alignment for Domain Generalizable Person Re-identification."</i> In IEEE International Conference on Multimedia and Expo (ICME) 2024
+  
+- **Ding, J.**, & Zhou, X. (2022, August). <i>"Learning feature fusion for unsupervised domain adaptive person re-identification."</i> (**oral**) In 2022 26th International Conference on Pattern Recognition (ICPR) (pp. 2613-2619). IEEE.
+  
+- **Ding, J.**, Zhou, X., & Hao, G. (2022, October). <i>"Disentangled Feature Learning for Semi-supervised Person Re-identification."</i> In Chinese Conference on Pattern Recognition and Computer Vision (PRCV) (pp. 449-463). Cham: Springer Nature Switzerland.
+
+Master's Thesis
+======
+[Unsupervised Cross-domain Person Re-identification]()
+
+
