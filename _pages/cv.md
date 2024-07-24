@@ -71,7 +71,7 @@ Master's Thesis
 ======
 [Unsupervised Cross-domain Person Re-identification](https://github.com/DJEddyking/djeddyking.github.io/blob/master/files/thesis.pdf)([无监督的跨域行人重识别算法研究](https://kns.cnki.net/kcms2/article/abstract?v=kHMw6kznbpprmqr1J4c2ubv53KU0RcTaGUaFlJsz79sfwX8Z5Uw9zBoFN_JriSokMgzWx1CXQMqUklzN7uUz5Hycfhe6sIoAauzadk8ujQSlyBXsL3Dfhm1FmjjnqoWF5FiRy58RPgB8pDXecd3a0BGflguh-puaWtn5TiyVPtLeT--VLZk-lof4iwmfYQYoCYmiFfpFBDI=&uniplatform=NZKPT&language=CHS))
 
-<img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/reid.gif" style="width: 400px; height: 320px;">
+<img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/reid.gif?raw=true" alt="Figure" style="width: 400px; height: 320px;">
 
 
 
