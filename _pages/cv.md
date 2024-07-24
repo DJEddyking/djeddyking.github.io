@@ -54,11 +54,7 @@ Awards & Honors
 
 Skills
 ======
-* Python
-* Pytorch
-* echarts
-* Latex
-* Markdown
+* Python, Pytorch, Numpy, Pandas, Echarts, Latex, Markdown
 
 Publications
 ======
@@ -73,5 +69,13 @@ Publications
 Master's Thesis
 ======
 [Unsupervised Cross-domain Person Re-identification](https://github.com/DJEddyking/djeddyking.github.io/blob/master/files/thesis.pdf)
+
+Competitions
+======
+* The third data application innovation and entrepreneurship competition of Shandong Province(山东省第三届数据应用创新创业大赛)
+  - Track: Person re-identification and tracking
+  - Rank: 3/184
+
+
 
 
