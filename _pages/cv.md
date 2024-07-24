@@ -69,16 +69,19 @@ Publications
 
 Master's Thesis
 ======
-[Unsupervised Cross-domain Person Re-identification](https://github.com/DJEddyking/djeddyking.github.io/blob/master/files/thesis.pdf)
+[Unsupervised Cross-domain Person Re-identification](https://github.com/DJEddyking/djeddyking.github.io/blob/master/files/thesis.pdf)([无监督的跨域行人重识别算法研究](https://kns.cnki.net/kcms2/article/abstract?v=kHMw6kznbpprmqr1J4c2ubv53KU0RcTaGUaFlJsz79sfwX8Z5Uw9zBoFN_JriSokMgzWx1CXQMqUklzN7uUz5Hycfhe6sIoAauzadk8ujQSlyBXsL3Dfhm1FmjjnqoWF5FiRy58RPgB8pDXecd3a0BGflguh-puaWtn5TiyVPtLeT--VLZk-lof4iwmfYQYoCYmiFfpFBDI=&uniplatform=NZKPT&language=CHS))
 
-<img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/huawei.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;"/>
+<div style="text-align: center;">
+<img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/reid.gif" alt="Figure" style="width: 200px; height: 120px;">
+</div>
+
 
 Competitions
 ======
 <p>
 <img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/shandong.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 The third data application innovation and entrepreneurship competition of Shandong Province(山东省第三届数据应用创新创业大赛)
-<b>Track</b>: Person re-identification and tracking
+<br><b>Track</b>: Person re-identification and tracking</br>
 <b>Rank</b>: 3/184
 <br clear="left">
 </p>
