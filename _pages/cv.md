@@ -58,9 +58,9 @@ Skills
 
 Publications
 ======
-- Nie, R., **Ding, J.**, Zhou, X. & Li, X. (Accepted). <i>"[Rethinking Normalization Layers for Domain Generalizable Person Re-identification](https://github.com/DJEddyking/djeddyking.github.io/blob/master/files/ECCV.pdf)."</i> In the 18th European Conference on Computer Vision (ECCV) 2024
+- Nie, R., **Ding, J.**, Zhou, X. & Li, X. (Accepted). <i>"[Rethinking Normalization Layers for Domain Generalizable Person Re-identification](https://djeddyking.github.io/files/ECCV.pdf)."</i> In the 18th European Conference on Computer Vision (ECCV) 2024
 
-- Nie, R., **Ding, J.**, He, L. & Zhou, X. (Accepted). <i>"[Latent Distribution Alignment for Domain Generalizable Person Re-identification](https://github.com/DJEddyking/djeddyking.github.io/blob/master/files/ICME.pdf)."</i> In IEEE International Conference on Multimedia and Expo (ICME) 2024
+- Nie, R., **Ding, J.**, He, L. & Zhou, X. (Accepted). <i>"[Latent Distribution Alignment for Domain Generalizable Person Re-identification](https://djeddyking.github.io/files/ICME.pdf)."</i> In IEEE International Conference on Multimedia and Expo (ICME) 2024
   
 - **Ding, J.**, & Zhou, X. (2022, August). <i>"[Learning feature fusion for unsupervised domain adaptive person re-identification](https://ieeexplore.ieee.org/document/9956264)."</i> (**oral**) In 2022 26th International Conference on Pattern Recognition (ICPR) (pp. 2613-2619). IEEE.
   
@@ -69,7 +69,7 @@ Publications
 
 Master's Thesis
 ======
-[Unsupervised Cross-domain Person Re-identification](https://github.com/DJEddyking/djeddyking.github.io/blob/master/files/thesis.pdf)([无监督的跨域行人重识别算法研究](https://kns.cnki.net/kcms2/article/abstract?v=kHMw6kznbpprmqr1J4c2ubv53KU0RcTaGUaFlJsz79sfwX8Z5Uw9zBoFN_JriSokMgzWx1CXQMqUklzN7uUz5Hycfhe6sIoAauzadk8ujQSlyBXsL3Dfhm1FmjjnqoWF5FiRy58RPgB8pDXecd3a0BGflguh-puaWtn5TiyVPtLeT--VLZk-lof4iwmfYQYoCYmiFfpFBDI=&uniplatform=NZKPT&language=CHS))
+[Unsupervised Cross-domain Person Re-identification](https://djeddyking.github.io/files/thesis.pdf)([无监督的跨域行人重识别算法研究](https://kns.cnki.net/kcms2/article/abstract?v=kHMw6kznbpprmqr1J4c2ubv53KU0RcTaGUaFlJsz79sfwX8Z5Uw9zBoFN_JriSokMgzWx1CXQMqUklzN7uUz5Hycfhe6sIoAauzadk8ujQSlyBXsL3Dfhm1FmjjnqoWF5FiRy58RPgB8pDXecd3a0BGflguh-puaWtn5TiyVPtLeT--VLZk-lof4iwmfYQYoCYmiFfpFBDI=&uniplatform=NZKPT&language=CHS))
 
 <img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/reid.gif?raw=true" alt="Figure" style="width: 400px; height: 320px;">
 
