@@ -80,7 +80,7 @@ Competitions
 <p>
 <img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/shandong.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 The third data application innovation and entrepreneurship competition of Shandong Province(山东省第三届数据应用创新创业大赛)
-<br><b>Track</b>: Person re-identification and tracking</br>
+<b>Track</b>: Person re-identification and tracking
 <b>Rank</b>: 3/184
 <br clear="left">
 </p>
