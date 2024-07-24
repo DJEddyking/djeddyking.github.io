@@ -18,7 +18,7 @@ author_profile: true
 <p>
 <img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/ICME.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>Latent Distribution Alignment for Domain Generalizable Person Re-identification</b><br>Nie Ren, <b>Jin Ding</b>, Xue Zhou and Lingxiao He. <i>ICME</i> 2024<br>
-[<a href="https://djeddyking.github.io/files/ICME.pdf">Paper</a>][<a href="https://djeddyking.github.io/files/ICME_poster.png">Poster</a>]
+[<a href="https://djeddyking.github.io/files/ICME.pdf">Paper</a>][<a href="https://djeddyking.github.io/files/ICME_poster.pdf">Poster</a>]
 <br clear="left">
 </p>
 
