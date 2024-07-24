@@ -96,8 +96,8 @@ Huawei software elite challenge(华为软件精英挑战赛)
 <p>
 <img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/kuangshi.gif?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 China Agricultural AI Innovation and Entrepreneurship Competition(中国农业人工智能创新创业大赛)
-<br><b>Track</b>: Multi-target tracking for fish</br>
-<b>Rank</b>: 3/214
+<br><b>Track</b>: Multi-target tracking for fish
+<b>Rank</b>: 3/214</br>
 <br clear="left">
 </p>
 
