@@ -32,11 +32,11 @@ Work experience
 Academic records
 ======
 * Master in University of Electronic Science and Technology, Chengdu, CHN
-  - GPA: 3.97/4.0 [details (EN)] [details (CN)]
+  - GPA: 3.97/4.0 [details (EN)](https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/uestc_en.pdf) [details (CN)](https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/uestc_cn.pdf)
   - Rank: 2/324
   - Centesimal grade average: 91.89
 * Bachelor in Northeastern University, Qinhuangdao, CHN
-  - GPA: 3.80/5.0 [details (EN)] [details (CN)]
+  - GPA: 3.80/5.0 [details (EN)](https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/neuq_en.pdf) [details (CN)](https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/neuq_cn.pdf)
   - Rank: 20/177
   - Centesimal grade average: 88.0
 
