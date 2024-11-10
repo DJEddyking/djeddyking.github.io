@@ -19,7 +19,7 @@ My research interests are centered in the field of computer vision, encompassing
 
 Recent news
 ------
-🎉 [Oct 2024] Won the third place in the 2024 iFlytek AI Developer Competition (<i>Agricultural pedestrian reidentification track</i>).
+🎉 [Oct 2024] Won the third place in the 2024 iFlytek AI Developer Competition (<i>Agricultural person reidentification track</i>).
 
 🎉 [July 2024]  One paper is accepted by the 18th European Conference on Computer Vision (<i>ECCV 2024</i>).
 
