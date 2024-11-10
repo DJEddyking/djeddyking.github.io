@@ -78,6 +78,14 @@ Master's Thesis
 Competitions
 ======
 <p>
+<img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/iflytek.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+2024 IFlytek AI Developer Competition(2024科大讯飞AI开发者大赛)
+<br><b>Track</b>: Agricultural person reidentification
+<br><b>Rank</b>: 3/122
+<br clear="left">
+</p>
+
+<p>
 <img src="https://github.com/DJEddyking/djeddyking.github.io/blob/master/images/shandong.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 The third data application innovation and entrepreneurship competition of Shandong Province(山东省第三届数据应用创新创业大赛)
 <br><b>Track</b>: Person re-identification and tracking
