@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-- Address: Huawei Technologies Co., Ltd., Dongguan, 523000, China
+- Address: Shenzhen, China
 - Email: dingjin1998@outlook.com
 - WeChat ID: murphys_new_law
