@@ -22,7 +22,7 @@ Education
 
 Work experience
 ======
-**2023.12-present**
+**2023.12-2024.12**
 * Algorithm Engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com/cn/), Dongguan, CHN
   * Duties includes: statistical modeling, data preprocessing, software development and data visualization
 
