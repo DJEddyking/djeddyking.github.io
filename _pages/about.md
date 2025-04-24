@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home page of Jin Ding"
+title: "Home page of Ding Jin"
 author_profile: true
 redirect_from: 
   - /about/
