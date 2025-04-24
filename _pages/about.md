@@ -8,7 +8,7 @@ redirect_from:
 ---
 About me :hugs:
 ======
-I am now an algorithm engineer. In June of 2023, I completed my postgraduate studies, receiving a Master of Engineering degree in Control Science and Engineering from the School of Automation Engineering at the [University of Electronic Science and Technology of China(UESTC)](https://www.uestc.edu.cn/), CHN, under the mentorship of Professor [Zhou Xue](https://ieeexplore.ieee.org/author/37656687100). Prior to that, in June of 2020, I was awarded a Bachelor of Engineering degree in Automation from the [Northeastern University at Qinhuangdao(NEUQ)](https://www.neuq.edu.cn/), CHN.
+I am now an algorithm engineer. In June of 2023, I completed my postgraduate studies, receiving a Master of Engineering degree in Control Science and Engineering from the School of Automation Engineering at the [University of Electronic Science and Technology of China(UESTC)](https://www.uestc.edu.cn/), CHN, under the mentorship of Professor [Zhou Xue](https://ieeexplore.ieee.org/author/37656687100). Prior to that, in June of 2020, I was awarded a Bachelor of Engineering degree in Automation from the [Northeastern University(NEU)](https://www.neu.edu.cn/), CHN.
 
 **I am currently in search of a Ph.D. opportunity. Should you find my profile of interest, please do not hesitate to contact me at your convenience.**
 
